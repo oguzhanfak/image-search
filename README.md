@@ -1,2 +1,2 @@
 # image-search
-I use Unsplash Image API to build this project. You can search any word to find photo about it.
+This repository contains a web application that allows users to search for images using the Unsplash API. The app is built using HTML, CSS, and JavaScript, and it provides a user-friendly interface to search for and view images from the Unsplash database.
